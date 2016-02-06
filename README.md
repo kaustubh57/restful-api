@@ -1,1 +1,3 @@
-# restful-api
+# RESTful APIs
+
+## Notes from "Effective Design of RESTful APIs"
